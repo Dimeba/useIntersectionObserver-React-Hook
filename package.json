@@ -1,0 +1,34 @@
+{
+	"name": "useintersectionobserver-react-hook",
+	"version": "1.0.0",
+	"description": "This is a custom React hook that simplifies the process of using the Intersection Observer API to detect when an element is visible within the viewport.",
+	"main": "useIntersectionObserver.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Dimeba/useIntersectionObserver-React-Hook.git"
+	},
+	"keywords": [
+		"intersection observer",
+		"lazy loading",
+		"infinite scroll",
+		"react",
+		"hook",
+		"frontend",
+		"web development",
+		"utility",
+		"performance"
+	],
+	"author": "Filip Stojanovic",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/Dimeba/useIntersectionObserver-React-Hook/issues"
+	},
+	"homepage": "https://github.com/Dimeba/useIntersectionObserver-React-Hook#readme",
+	"peerDependencies": {
+		"react": "^18.2.0",
+		"react-dom": "^18.2.0"
+	}
+}
