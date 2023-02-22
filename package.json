@@ -1,8 +1,9 @@
 {
 	"name": "useintersectionobserver-react-hook",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "This is a custom React hook that simplifies the process of using the Intersection Observer API to detect when an element is visible within the viewport.",
 	"main": "useIntersectionObserver.js",
+	"type": "module",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
